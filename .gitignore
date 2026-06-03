@@ -17,3 +17,4 @@ pids
 .env
 .env.*
 !.env.example
+/dist/
